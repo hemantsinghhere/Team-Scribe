@@ -1,0 +1,9 @@
+.editorBox {
+  width: 80%;
+  height: 100%;
+  display: flex;
+  margin-left: 10%;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #bb3131;
+}
